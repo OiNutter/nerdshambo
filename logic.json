@@ -1,0 +1,37 @@
+{
+    "r": {
+      "name": "Rock",
+      "beats": {
+        "l": "crushes",
+        "s": "crushes"
+      }
+    },
+    "p": {
+      "name": "Paper",
+      "beats": {
+        "r": "covers",
+        "v": "disproves"
+      }
+    },
+    "s": {
+      "name": "Scissors",
+      "beats": {
+        "p": "cuts",
+        "l": "decapitates"
+      }
+    },
+    "l": {
+      "name": "Lizard",
+      "beats": {
+        "v": "poisons",
+        "p": "eats"
+      }
+    },
+    "v": {
+      "name": "Spock",
+      "beats": {
+        "s": "smashes",
+        "r": "vaporizes"
+      }
+    }
+  }
