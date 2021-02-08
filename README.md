@@ -11,7 +11,7 @@ Roshambo, another name for Rock, Paper Scissors.
 
 This repo is an extension of my inital playing around with [Flutter](https://flutter.dev)
 and my decision to build a Nerdshambo game as a mobile app using it. When I
-recently decided to have another play with [Rust](htts://rust-lang.org) after
+recently decided to have another play with [Rust](https://rust-lang.org) after
 a while, I couldn't think what to write to get started (after the usual Hello
 World of course). So I decided to write another command line version of the game.
 And then I decided to do a lot more...
