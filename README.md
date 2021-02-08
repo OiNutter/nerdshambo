@@ -44,4 +44,14 @@ Simples!
 Using the existing `logic.json` file is optional, I just find this a neat way
 to store the logic and it let's me reuse it across languages.
 
+Languages/Frameworks So Far
+----------------
+
+* [Flutter/Dart](https://flutter.dev)
+* [Python](https://python.org)
+* [Rust](https://rust-lang.org)
+* [Ruby](https://ruby-lang.org)
+* [Elixir](https://elixir-lang.org)
+* [Go](https://golang.org)
+
 Have fun!
