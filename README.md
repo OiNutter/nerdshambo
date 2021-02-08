@@ -47,13 +47,13 @@ to store the logic and it let's me reuse it across languages.
 Languages/Frameworks So Far
 ----------------
 
+* [Elixir](https://elixir-lang.org)
 * [Flutter/Dart](https://flutter.dev)
+* [Go](https://golang.org)
+* [Lua](https://lua.org)
+* [NodeJS](https://nodejs.org)
 * [Python](https://python.org)
 * [Rust](https://rust-lang.org)
 * [Ruby](https://ruby-lang.org)
-* [Elixir](https://elixir-lang.org)
-* [Go](https://golang.org)
-* [NodeJS](https://nodejs.org)
-* [Lua](https://lua.org)
 
 Have fun!
