@@ -53,5 +53,7 @@ Languages/Frameworks So Far
 * [Ruby](https://ruby-lang.org)
 * [Elixir](https://elixir-lang.org)
 * [Go](https://golang.org)
+* [NodeJS](https://nodejs.org)
+* [Lua](https://lua.org)
 
 Have fun!
