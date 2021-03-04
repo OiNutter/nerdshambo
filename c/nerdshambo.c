@@ -6,7 +6,7 @@
 #include <unistd.h>
 
 // Local Libs
-#include <cjson/cJSON.h>
+#include "cJSON.h"
 
 //Prototypes
 cJSON *load_logic(char path[]);
