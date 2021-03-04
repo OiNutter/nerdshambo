@@ -47,6 +47,7 @@ to store the logic and it let's me reuse it across languages.
 Languages/Frameworks So Far
 ----------------
 
+* [C](https://www.iso.org/standard/74528.html)
 * [Elixir](https://elixir-lang.org)
 * [Flutter/Dart](https://flutter.dev)
 * [Go](https://golang.org)
